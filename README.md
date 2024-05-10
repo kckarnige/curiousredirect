@@ -1,1 +1,1 @@
-### Redirect for the old 'is-a.dev' url, which will come back eventually after this new domain expires
+### Redirect for anyone who visits 'is-broke.online' url, which will be removed eventually after this new domain expires
